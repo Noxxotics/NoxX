@@ -1,0 +1,13 @@
+{
+  "name": "Noxx Private Chat",
+  "short_name": "Noxx Chat",
+  "description": "Privacy-first encrypted messaging",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101112",
+  "theme_color": "#101112",
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
